@@ -1,4 +1,5 @@
 se connecter a Vagrant = vagrant up / vagrant ssh
+se mettre dans le bon dossier = cd /vagrant/
 entrer dans l'env = source ~/env/bin/activate
 lancer le server = python manage.py runserver 0.0.0.0:8000
 tester le projet sur le server = sur google taper 127.0.0.1:8000
